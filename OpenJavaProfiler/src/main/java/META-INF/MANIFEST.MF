@@ -1,0 +1,12 @@
+Manifest-Version: 1.0
+Archiver-Version: Plexus Archiver
+Created-By: Apache Maven
+Built-By: user
+Build-Jdk: 1.7.0_45
+Specification-Title: OpenProfiler
+Specification-Version: 1.0
+Implementation-Title: OpenProfiler
+Implementation-Version: 1.0
+Implementation-Vendor-Id: com.iexceed.profiler
+Premain-Class: com.iexceed.profiler.InstrumentationAgent
+
